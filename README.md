@@ -43,7 +43,7 @@ Focused on improving my development skills and building real-world projects.
 > ⚠️ **Note:** `node_modules` folder is not included. Run **`npm install`** after cloning to install dependencies.  
 
 
-###  [Stayzy---Hotel-Booking-Website](https://github.com/vibhagosavi/Stayzy-Hotel-Booking-Website)
+###  [Stayzy-Hotel-Booking-Website](https://github.com/vibhagosavi/Stayzy-Hotel-Booking-Website)
 **Description:** A complete hotel booking system with room management, dynamic pricing, and booking logic.  
 **Tech Used:** PHP, HTML, CSS, JavaScript, AJAX, Bootstrap, MySQL  
 
