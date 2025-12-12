@@ -2,7 +2,7 @@
 A passionate developer who loves building clean, user-friendly and responsive web applications.  
 Focused on improving my development skills and building real-world projects.
 
----
+
 
 ## 🚀 Skills & Expertise
 
@@ -27,26 +27,26 @@ Focused on improving my development skills and building real-world projects.
 - VS Code  
 - XAMPP  
 
----
+
 
 ## 📌 What I'm Currently Working On
 - Creating **full-stack web applications**
 - Building **e-commerce, marketplace & real client projects**
 - Working with **React + PHP + MySQL**
 
----
+
 
 ## 🎯 Future Goals
 - Become a strong **Full-Stack Developer**
 - Learn **Node.js**, **Express**, & **MongoDB**
 - Build scalable and modern applications
 
----
+
 
 ## 📫 Connect With Me
 - ✉️ Email: vibhagosavi2802@gmail.com  
 
 
----
 
-⭐ _Thanks for visiting my profile! Feel free to explore my repositories and connect with me._  
+
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
