@@ -44,9 +44,8 @@ Focused on improving my development skills and building real-world projects.
 ---
 
 ## 📫 Connect With Me
-- ✉️ Email: _add your email here_  
-- 🌐 Portfolio: _add your portfolio link_  
-- 💼 LinkedIn: _add LinkedIn link_  
+- ✉️ Email: vibhagosavi2802@gmail.com  
+
 
 ---
 
