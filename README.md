@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Vibhavari Gosavi (Vibha)!
+A passionate developer who loves building clean, user-friendly and responsive web applications.  
+Focused on improving my development skills and building real-world projects.
 
-<!--
-**vibhagosavi/vibhagosavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Skills & Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Frontend Development
+- HTML5  
+- CSS3  
+- JavaScript  
+- Bootstrap  
+- Tailwind CSS (Basic)  
+- React.js  
+
+### 🖥 Backend Development
+- PHP (Core + MySQL)
+- Basic API understanding
+
+### 🗂 Database
+- MySQL
+
+### 🛠 Tools & Technologies
+- Git (Beginner - Learning)
+- GitHub 
+- VS Code  
+- XAMPP  
+
+---
+
+## 📌 What I'm Currently Working On
+- Creating **full-stack web applications**
+- Building **e-commerce, marketplace & real client projects**
+- Working with **React + PHP + MySQL**
+
+---
+
+## 🎯 Future Goals
+- Become a strong **Full-Stack Developer**
+- Learn **Node.js**, **Express**, & **MongoDB**
+- Build scalable and modern applications
+
+---
+
+## 📫 Connect With Me
+- ✉️ Email: _add your email here_  
+- 🌐 Portfolio: _add your portfolio link_  
+- 💼 LinkedIn: _add LinkedIn link_  
+
+---
+
+⭐ _Thanks for visiting my profile! Feel free to explore my repositories and connect with me._  
